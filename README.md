@@ -18,19 +18,19 @@ This project is a C++ implementation of the Ziv-Lempel (LZW) adaptive data compr
 
 ### How to Run
 
-1. Compile the source:
+1. **Compile the source**:
    
    ```bash
    g++ main.cpp -o Compressor
    ```
    
-2. Run the program:
+2. **Run the program**:
 
     Linux / macOS: ./Compressor
 
     Windows: Compressor.exe
 
-3. Usage:
+3. **Usage**:
 
     Select option 1 to compress an input string into a sequence of integer codes.
 
